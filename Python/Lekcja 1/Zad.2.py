@@ -1,11 +1,14 @@
 def christmastree():
     h = 7
     w = 1
-    max_w = 7
+    space = 4
     for i in range(0,h):
         if(i < 4):
-            print(''*max_w,  '^'*w)
+            print(' '*space,  '^'*w)
             w+=2
+            space-=1
         else:
-            w = 5
+            print(' '*space,  '^'*(w - 4))
+            w+=2
+            space-=1
 christmastree()
