@@ -1,0 +1,35 @@
+body {
+    background-color: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section{
+    border-bottom: 1px solid black;
+}
+.first > h1 {
+    color: green;
+}
+
+.first > p {
+    text-align: justify;
+}
+.second{
+    text-align: center;
+    line-height: 50px;
+}
+.second > h2 {
+    color: blue;
+    text-shadow: 3px 3px cyan;
+}
+.third > h3 {
+    color: red;
+}
+.third > p {
+    color: gray;
+    font-style: italic;
+    background-color: white;
+}
+.third span {
+    color: blue;
+    text-decoration: underline;
+    font-size: 12px;
+}

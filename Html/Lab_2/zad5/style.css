@@ -1,0 +1,28 @@
+.box_1 {
+    font-weight: bold;
+    color: red;
+}
+.box_2, .box_4, .box_6, .box_8 {
+    font-style: italic;
+    color: gray;
+}
+.box_3, .box_5, .box_7, .box_9 {
+    text-transform: lowercase;
+    color: blue;
+}
+.box_3, .box_6, .box_9 {
+    text-decoration: line-through wavy fuchsia;
+}
+.box_10 {
+    font-weight: bold;
+    color: green;
+}
+
+[class^="box_"]:hover {
+    font-size: larger;
+}
+
+[class^="box_"]:active {
+    text-decoration: none;
+    color: black;
+}

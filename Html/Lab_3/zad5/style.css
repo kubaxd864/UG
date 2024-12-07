@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.circle {
+    background-color: darkblue;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.text {
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+    transform: rotate(45deg);
+}

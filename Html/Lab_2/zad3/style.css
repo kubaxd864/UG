@@ -1,0 +1,42 @@
+button {
+    background-color: #81D8D0; 
+    width: 150px; 
+    height: 50px; 
+    border-radius: 16px;
+}
+.first {
+    color: red;
+}
+.first .second {
+    color: green;
+}
+.first .second ul {
+    color: blue;
+}
+a{
+    color: red;
+    text-decoration: underline;
+}
+a:visited {
+    color: green;
+    text-decoration: underline;
+}
+a:hover{
+    color: blue;
+    text-decoration: overline;
+}
+a:active{
+    color: blue;
+}
+.niebieski {
+    background-color: blue;
+}
+.czerwony {
+    background-color: red;
+}
+.zielony {
+    background-color: green;
+}
+.zolty {
+    background-color: yellow;
+}

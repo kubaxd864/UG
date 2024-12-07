@@ -1,0 +1,73 @@
+body{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    gap: 100px;
+}
+
+h1, h2 {
+    color: brown;
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.container{
+    display: flex;
+    gap: 10px;
+}
+
+.wrong, .right {
+    width: 50px;
+    height: 50px;
+    background-color: lightgray;
+    border: 1px solid gray;
+    border-radius: 16px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.number {
+    border: 1px solid gray;
+    border-radius: 14px;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.wrong:active{
+    background-color: rgb(244, 55, 55);
+}
+
+.right:active{
+    background-color: rgb(27, 211, 27);
+}
+.ranking{
+    display: flex;
+    flex-direction: column;
+}
+table {
+    width: 400px;
+    height: 400px;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    text-align: center;
+}
+.th {
+    background-color: blue;
+    color: white;
+}
+.r1, .r3, .r5, .r7, .r9 {
+    background-color: lightblue;
+}
+.r2, .r4, .r6, .r8, .r10 {
+    background-color: lightgoldenrodyellow;
+}

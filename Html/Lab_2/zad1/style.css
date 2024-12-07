@@ -1,0 +1,23 @@
+body {
+    background-image: url(image.png);
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+.first {
+    text-transform: uppercase;
+    font-size:xx-large;
+}
+.second { 
+    color: red;
+    word-spacing: 20px;
+}
+.third { 
+    font-weight: bold;
+    letter-spacing: 20px;
+}
+.fourth {
+    text-decoration: line-through green double;
+    text-transform: capitalize;
+}

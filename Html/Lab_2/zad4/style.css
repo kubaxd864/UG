@@ -1,0 +1,49 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    margin: 40px 0px 40px 0px;
+}
+.box{
+    background-image: url(./images/slit.png);
+}
+.spring{
+    background-image: url(./images/spring.png);
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-shadow: 3px 3px green;
+}
+.first li {
+    list-style-image: url(./images/spring-icon.png);
+}
+.summer{
+    background-image: url(./images/summer.png);
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-shadow: 3px 3px rgb(235, 217, 22);
+}
+.second li {
+    list-style-image: url(./images/summer-icon.png);
+}
+.autumn{
+    background-image: url(./images/autumn.png);
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-shadow: 3px 3px red;
+}
+.third li {
+    list-style-image: url(./images/autumn-icon.png);
+}
+.winter{
+    background-image: url(./images/winter.png);
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-shadow: 3px 3px blue;
+}
+.fourth li {
+    list-style-image: url(./images/winter-icon.png);
+}
