@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+body > div {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+body > div:nth-child(even) {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+div > p {
+    font-style: italic;
+    text-align: end;
+}
+
+div:nth-child(even) > p {
+    font-style: italic;
+    text-align: start;
+}
+
+.img-descr{
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    width: 350px;
+}
+
+.animal-descr{
+    width: 50%;
+}
+div:nth-child(1) > .img-descr {
+    background-image: url(./images/dog.png);
+    background-size: contain;
+    height: 380px;
+}
+
+div:nth-child(2) > .img-descr {
+    background-image: url(./images/cat.png);
+    background-size: auto;
+    height: 330px;
+}
+
+div:nth-child(3) > .img-descr {
+    background-image: url(./images/bird.png);
+    background-size: contain;
+    height: 250px;
+}
