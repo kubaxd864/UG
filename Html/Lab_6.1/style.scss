@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+.paragraphs {
+    display: flex;
+    flex-direction: row;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+img {
+    width: 30vw;
+    max-width: 100%;
+    height: auto;
+}
+
+.images {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+a{
+    color: red;
+    text-decoration: underline;
+}
+a:visited {
+    color: green;
+    text-decoration: underline;
+}
+a:hover{
+    color: blue;
+    text-decoration: overline;
+}
+a:active{
+    color: blue;
+}
+.niebieski {
+    background-color: blue;
+}
+.czerwony {
+    background-color: red;
+}
+.zielony {
+    background-color: green;
+}
+.zolty {
+    background-color: yellow;
+}

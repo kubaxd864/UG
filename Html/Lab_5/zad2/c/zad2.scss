@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#outer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box:nth-child(1) {
+    background-color: rgb(81, 81, 81);
+    align-self: flex-start;
+}
+
+.box:nth-child(2) {
+    background-color: rgb(122, 122, 122);
+    margin: 50px;
+}
+
+.box:nth-child(3) {
+    background-color: rgb(178, 176, 176);
+    align-self: flex-end;
+}

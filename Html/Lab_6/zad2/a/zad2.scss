@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(6, 5fr);
+    gap: 20px;
+
+    .box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: burlywood;
+        border: 2px solid black;
+        height: 45px;
+    }
+    .box:nth-child(25){
+        display: none;
+    }
+}

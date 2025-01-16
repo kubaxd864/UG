@@ -1,0 +1,54 @@
+body {
+  height: 100vh;
+}
+
+.outer {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.outer > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 40px;
+  width: 100vw;
+  height: 100vh;
+}
+
+.outer > div:nth-child(1) {
+  background-color: rgb(255, 0, 0);
+  order: 3;
+}
+
+.outer > div:nth-child(2) {
+  background-color: rgb(255, 149, 0);
+  order: 2;
+}
+
+.outer > div:nth-child(3) {
+  background-color: rgb(255, 238, 0);
+  order: 1;
+}
+
+.outer > div:nth-child(4) {
+  background-color: rgb(0, 255, 47);
+  order: 7;
+}
+
+.outer > div:nth-child(5) {
+  background-color: rgb(0, 47, 255);
+  order: 6;
+}
+
+.outer > div:nth-child(6) {
+  background-color: rgb(187, 0, 255);
+  order: 5;
+}
+
+.outer > div:nth-child(7) {
+  background-color: rgb(255, 0, 200);
+  order: 4;
+}/*# sourceMappingURL=zad1.css.map */
