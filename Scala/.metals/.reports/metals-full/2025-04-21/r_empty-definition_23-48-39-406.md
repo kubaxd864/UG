@@ -1,0 +1,46 @@
+error id: 
+file:///C:/Users/x/Desktop/Projects/Github/UG%20-%20Gitlab/Język%20Programowania%201/sobczyk-jakub/lab07/src/main/scala/Main.scala
+empty definition using pc, found symbol in pc: 
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 741
+uri: file:///C:/Users/x/Desktop/Projects/Github/UG%20-%20Gitlab/Język%20Programowania%201/sobczyk-jakub/lab07/src/main/scala/Main.scala
+text:
+```scala
+@main def pierwszy(): Unit = {
+  println(sumOpts(List(Some(1.2), Some(-2.4), Some(6.3), Some(2.3), Some(9.0), Some(1.8), None)))
+  println(position(List(1, 5, 4, 7, 8, 9), 4))
+  // println(indices(List(1, 5, 4, 7, 8, 9), 4))
+  val l = List(1, 5, 4, 7, 8, 9, 4)
+  val el = 4
+  val elements = l.zipWithIndex.collect {
+    case (e, index) if e == el => index
+  }
+  println(elements)
+}
+
+def sumOpts(l: List[Option[Double]]): Option[Double] = {
+  val sum = l.foldLeft(0.0) {
+    case (akum, Some(value)) => akum + value
+    case (akum, None) => akum
+  }
+  if (sum == 0.0) None else Some(sum)
+}
+
+def position[A](l: List[A], el: A): Option[Int] = {
+  if l.indexOf(el) == -1 then None
+  else Some(l.indexOf(el)) 
+}
+
+// def i@@ndices[A](l: List[A], el: A): List[Int] = {
+//     l.map(e => )
+// }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: 

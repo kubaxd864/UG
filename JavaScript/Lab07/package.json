@@ -1,0 +1,20 @@
+{
+  "name": "lab07",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zad1": "nodemon src/objects.js",
+    "zad2": "nodemon src/creatingObjects.js",
+    "zad3": "nodemon src/book.js",
+    "zad4": "nodemon src/student.js",
+    "zad5": "nodemon src/this.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
