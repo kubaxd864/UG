@@ -6,11 +6,51 @@ function hideLoader() {
   document.getElementById("loader").style.display = "none";
 }
 
-function getMoreInfo(pokemonId) {
+function showError(msg) {
+  const mainDiv = document.getElementById("pokemons");
+  const errDiv = document.createElement("div");
+  errDiv.classList.add("errDiv");
+  errDiv.textContent = msg;
+  mainDiv.appendChild(errDiv);
+}
+
+function search() {
+  const inputtext = document.getElementById("searchBar").value;
+  const parentDiv = document.getElementById("pokemons");
+  parentDiv.innerHTML = "";
   showLoader();
   setTimeout(() => {
     try {
-      fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonId + 1}`)
+      if (!inputtext == "") {
+        fetch(`https://pokeapi.co/api/v2/pokemon/${inputtext}`)
+          .then((res) => {
+            if (res.status === 404) {
+              showError("Nie znaleziono takiego pokemona");
+            } else {
+              return res.json();
+            }
+          })
+          .then((data) => {
+            if (data) {
+              renderdiv(inputtext, 0);
+            }
+          });
+      } else {
+        showError("Wyszkiwanie nie może być puste");
+      }
+    } catch (error) {
+      console.error(error);
+    } finally {
+      hideLoader();
+    }
+  }, 800);
+}
+
+function getMoreInfo(pokemonName, pokemonId) {
+  showLoader();
+  setTimeout(() => {
+    try {
+      fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`)
         .then((res) => res.json())
         .then((data) => addMoreInfo(data, pokemonId));
     } catch (error) {
@@ -48,7 +88,15 @@ function renderdiv(pokemonName, pokemonId) {
   div.classList.add(`pokemonBox-${pokemonId}`);
 
   const img = document.createElement("img");
-  img.src = `./pictures/Pokemon-${pokemonId + 1}.jpg`;
+  try {
+    fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonName}`)
+      .then((res) => res.json())
+      .then((data) => {
+        img.src = data.sprites.front_default;
+      });
+  } catch (error) {
+    console.error(error);
+  }
   img.alt = pokemonName;
 
   const title = document.createElement("h2");
@@ -58,7 +106,7 @@ function renderdiv(pokemonName, pokemonId) {
   button.textContent = "Więcej...";
   button.classList.add("moreBtn");
   button.onclick = function () {
-    getMoreInfo(pokemonId);
+    getMoreInfo(pokemonName, pokemonId);
     this.disabled = true;
   };
 
@@ -89,4 +137,7 @@ function getpokemonlist() {
 
 document.addEventListener("DOMContentLoaded", function () {
   getpokemonlist();
+  document.getElementById("searchBtn").onclick = function () {
+    search();
+  };
 });
