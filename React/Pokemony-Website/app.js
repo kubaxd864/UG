@@ -9,8 +9,14 @@ function hideLoader() {
 function showError(msg) {
   const mainDiv = document.getElementById("pokemons");
   const errDiv = document.createElement("div");
+  const button = document.createElement("button");
+  button.textContent = "Powrót do Listy";
+  button.onclick = function () {
+    window.location.reload();
+  };
   errDiv.classList.add("errDiv");
   errDiv.textContent = msg;
+  errDiv.appendChild(button);
   mainDiv.appendChild(errDiv);
 }
 
@@ -100,7 +106,8 @@ function renderdiv(pokemonName, pokemonId) {
   img.alt = pokemonName;
 
   const title = document.createElement("h2");
-  title.textContent = pokemonName;
+  title.textContent =
+    pokemonName.charAt(0).toUpperCase() + pokemonName.slice(1);
 
   const button = document.createElement("button");
   button.textContent = "Więcej...";
