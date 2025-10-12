@@ -11,6 +11,7 @@ function App() {
   const [createComponents, setcreateComponents] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
 
+  // hook useEffect uruchamiający funkcję tylko raz po załadowaniu strony
   useEffect(() => {
     setIsLoading(true);
     axios
@@ -22,6 +23,7 @@ function App() {
       .finally(() => setIsLoading(false));
   }, []);
 
+  // funkcja filtrująca po nazwach pokemonów
   function searchByName(value) {
     if (!value) {
       setFilteredPokemons(allPokemons);
@@ -34,6 +36,7 @@ function App() {
     setFilteredPokemons(list);
   }
 
+  // funkcja filtrująca po typie
   function searchByType(value) {
     if (!value) return;
     setIsLoading(true);

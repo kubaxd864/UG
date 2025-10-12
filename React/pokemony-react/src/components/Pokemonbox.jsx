@@ -5,6 +5,8 @@ import axios from "axios";
 function PokemonBox({ name, idx }) {
   const [moreInfo, showMoreInfo] = useState(false);
   const [pokemonInfo, setPokemoninfo] = useState([]);
+
+  // funkcja pobierająca dane pokemona i jego statystyki
   useEffect(() => {
     axios.get(`https://pokeapi.co/api/v2/pokemon/${name}`).then(({ data }) => {
       setPokemoninfo(data);
