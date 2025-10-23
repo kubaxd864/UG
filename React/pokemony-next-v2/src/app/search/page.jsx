@@ -31,6 +31,7 @@ async function getPokemons({ name, type }) {
 }
 
 export default async function SearchPage({ searchParams }) {
+  const favorites = [];
   const name = searchParams.name || "";
   const type = searchParams.type || "any";
   const pokemons = await getPokemons({ name, type });
@@ -107,7 +108,12 @@ export default async function SearchPage({ searchParams }) {
           }}
         >
           {pokemons.slice(0, 20).map((pokemon, id) => (
-            <PokemonCard key={id} name={pokemon.name} id={id + 1} />
+            <PokemonCard
+              key={id}
+              name={pokemon.name}
+              id={id + 1}
+              favorites={favorites}
+            />
           ))}
         </div>
       ) : (
