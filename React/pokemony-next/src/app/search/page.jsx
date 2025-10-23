@@ -13,7 +13,7 @@ async function getPokemons({ name, type }) {
     const data = await res.json();
 
     results = data.results.filter((p) =>
-      p.name.toLowerCase().includes(name.toLowerCase())
+      p.name.toLowerCase().startsWith(name.toLowerCase())
     );
   }
 

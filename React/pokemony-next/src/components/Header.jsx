@@ -4,7 +4,7 @@ import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 
 export default function Header() {
   return (
-    <>
+    <div>
       <header className="flex flex-col pb-2 m-1 justify-center items-center">
         <h1 className="text-6xl font-bold mb-5">PokeAPI</h1>
         <h3 className="text-xl text-center">
@@ -28,6 +28,6 @@ export default function Header() {
           />
         </Link>
       </div>
-    </>
+    </div>
   );
 }
