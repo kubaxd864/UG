@@ -1,0 +1,156 @@
+2026.02.26 14:39:45 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\x\Desktop\Projects\Github\UG\Java' for client Visual Studio Code 1.109.5.
+2026.02.26 14:39:45 INFO  Memory monitor started
+2026.02.26 14:39:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.26 14:39:47 WARN  no build tool detected in workspace 'C:\Users\x\Desktop\Projects\Github\UG\Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.26 14:39:47 WARN  Build server is not auto-connectable.
+2026.02.26 14:39:47 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java
+2026.02.26 14:39:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:47 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:39:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+lut 26, 2026 2:39:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2026.02.26 14:39:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:39:55 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:06 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:06 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:13 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:14 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+lut 26, 2026 2:40:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 75
+lut 26, 2026 2:40:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 79
+2026.02.26 14:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:19 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:18 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:19 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:21 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:25 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:26 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:26 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:27 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+2026.02.26 14:40:28 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/Hello.java. Output:
+
+2026.02.26 14:40:28 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java
+2026.02.26 14:40:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Hello.java. Using fallback presentation compiler.
+lut 26, 2026 2:40:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+lut 26, 2026 2:40:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+lut 26, 2026 2:40:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.26 14:43:30 INFO  Shutting down server
+2026.02.26 14:43:30 INFO  Memory monitor stopped
+2026.02.26 14:43:30 INFO  shutting down Metals
+2026.02.26 14:43:30 INFO  Exiting server

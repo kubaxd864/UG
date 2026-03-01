@@ -4,7 +4,6 @@ import FavoriteCounter from "@/components/FavoriteCounter";
 import ComparisonModal from "@/components/ComparisonModal";
 import Header from "../components/Header";
 import { useState, useEffect, useRef } from "react";
-import Link from "next/link";
 import axios from "axios";
 import ToastContainer from "@/components/ToastContainer";
 
@@ -120,11 +119,6 @@ export default function Home() {
         toggleFavorite={toggleFavorite}
         addToCompare={addToCompare}
       />
-      <Link href={"/create-pokemon"}>
-        <button className="fixed bottom-5 left-2 bg-zinc-900 p-4 rounded-xl">
-          Stwórz Swojego <br /> Pokemona
-        </button>
-      </Link>
       <button
         className="fixed bottom-5 right-5 bg-zinc-900 p-4 rounded-xl"
         onClick={() => setOpen(true)}
