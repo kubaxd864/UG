@@ -3840,3 +3840,867 @@ WARNING: Unmatched cancel notification for request id 30
 2026.03.12 14:24:33 INFO  Memory monitor stopped
 2026.03.12 14:24:33 INFO  shutting down Metals
 2026.03.12 14:24:33 INFO  Exiting server
+2026.03.19 14:17:25 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\x\Desktop\Projects\Github\UG\Java' for client Visual Studio Code 1.111.0.
+2026.03.19 14:17:25 INFO  Memory monitor started
+2026.03.19 14:17:35 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.19 14:17:37 WARN  no build tool detected in workspace 'C:\Users\x\Desktop\Projects\Github\UG\Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.19 14:17:37 WARN  Build server is not auto-connectable.
+2026.03.19 14:17:37 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\Zad_1\Main.java
+2026.03.19 14:17:39 INFO  time: code lens generation in 2.67s
+2026.03.19 14:17:39 INFO  time: code lens generation in 2.66s
+2026.03.19 14:17:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Zad_1\Main.java. Using fallback presentation compiler.
+mar 19, 2026 2:17:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.19 14:22:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Zad_1\Main.java. Using fallback presentation compiler.
+2026.03.19 14:23:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\Zad_1\Main.java. Using fallback presentation compiler.
+2026.03.19 14:31:20 INFO  Shutting down server
+2026.03.19 14:31:20 INFO  Memory monitor stopped
+2026.03.19 14:31:20 INFO  shutting down Metals
+2026.03.19 14:31:20 INFO  Exiting server
+2026.03.19 15:01:51 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\x\Desktop\Projects\Github\UG\Java' for client Visual Studio Code 1.111.0.
+2026.03.19 15:01:51 INFO  Memory monitor started
+2026.03.19 15:01:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.19 15:01:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:01:53 WARN  no build tool detected in workspace 'C:\Users\x\Desktop\Projects\Github\UG\Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.19 15:01:53 WARN  Build server is not auto-connectable.
+2026.03.19 15:01:53 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java
+2026.03.19 15:01:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:01:54 INFO  time: code lens generation in 1.05s
+2026.03.19 15:03:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+mar 19, 2026 3:03:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+mar 19, 2026 3:03:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 122
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:34 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:34 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:45 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:03:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:45 INFO  no build target found for c:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Queue.java. Using fallback presentation compiler.
+2026.03.19 15:03:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:50 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:03:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:50 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-02-bst-gr-1-kubaxd864-main/Main.java]
+2026.03.19 15:03:50 INFO  QDox parse error in file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-02-bst-gr-1-kubaxd864-main/Main.java (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-03-19\r_qdox-error_15-03-50-252.md")
+2026.03.19 15:03:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:53 WARN  Running javac-semanticdb failed for file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-02-bst-gr-1-kubaxd864-main/Main.java. Output:
+
+2026.03.19 15:03:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:54 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:03:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:03:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:04:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:05:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:05:20 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:05:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:07:40 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:07:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:07:40 INFO  Shutting down server
+2026.03.19 15:07:40 INFO  Memory monitor stopped
+2026.03.19 15:07:40 INFO  shutting down Metals
+2026.03.19 15:07:40 INFO  Exiting server
+2026.03.19 15:10:55 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\x\Desktop\Projects\Github\UG\Java' for client Visual Studio Code 1.111.0.
+2026.03.19 15:10:55 INFO  Memory monitor started
+2026.03.19 15:10:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.19 15:10:57 WARN  no build tool detected in workspace 'C:\Users\x\Desktop\Projects\Github\UG\Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.19 15:10:57 WARN  Build server is not auto-connectable.
+2026.03.19 15:10:57 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:10:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:10:58 INFO  time: code lens generation in 1.16s
+2026.03.19 15:11:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:11:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:19:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+mar 19, 2026 3:20:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://dnnjb2rllwnoyxqtc2vzc2lvbjovl2xvy2fsl05uzzfnakextlrfde1qtxlaatawwm1neexxsm1namn0tudwavptrm1nv05owm1saq/response_d2b70ac3-0002-4d2e-aa5f-834cec3edbe7/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Cx%5C%5CAppData%5C%5CRoaming%5C%5CCode%5C%5CUser%5C%5CworkspaceStorage%5C%5Cvscode-chat-images%5C%5Cimage-1773929914833.png%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Fx%2FAppData%2FRoaming%2FCode%2FUser%2FworkspaceStorage%2Fvscode-chat-images%2Fimage-1773929914833.png%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Fx%2FAppData%2FRoaming%2FCode%2FUser%2FworkspaceStorage%2Fvscode-chat-images%2Fimage-1773929914833.png%22%2C%22scheme%22%3A%22file%22%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.03.19 15:22:45 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:22:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:46 INFO  time: code lens generation in 3.23s
+2026.03.19 15:23:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:47 INFO  time: code lens generation in 2.24s
+2026.03.19 15:23:47 INFO  time: code lens generation in 1.84s
+2026.03.19 15:23:47 INFO  time: code lens generation in 1.25s
+2026.03.19 15:23:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+mar 19, 2026 3:23:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 301
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:23:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:20 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:24:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+mar 19, 2026 3:25:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 741
+2026.03.19 15:25:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+mar 19, 2026 3:25:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 801
+2026.03.19 15:25:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:25:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:26:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+mar 19, 2026 3:38:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://dnnjb2rllwnoyxqtc2vzc2lvbjovl2xvy2fsl05uzzfnakextlrfde1qtxlaatawwm1neexxsm1namn0tudwavptrm1nv05owm1saq/response_d2b70ac3-0002-4d2e-aa5f-834cec3edbe7/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Cx%5C%5CAppData%5C%5CRoaming%5C%5CCode%5C%5CUser%5C%5CworkspaceStorage%5C%5Cvscode-chat-images%5C%5Cimage-1773929914833.png%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Fx%2FAppData%2FRoaming%2FCode%2FUser%2FworkspaceStorage%2Fvscode-chat-images%2Fimage-1773929914833.png%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Fx%2FAppData%2FRoaming%2FCode%2FUser%2FworkspaceStorage%2Fvscode-chat-images%2Fimage-1773929914833.png%22%2C%22scheme%22%3A%22file%22%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:39:59 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:40:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:16 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:40:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:18 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java
+2026.03.19 15:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 15:40:18 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-02-bst-gr-1-kubaxd864-main\Main.java. Using fallback presentation compiler.
+2026.03.19 16:11:35 INFO  Shutting down server
+2026.03.19 16:11:35 INFO  Memory monitor stopped
+2026.03.19 16:11:35 INFO  shutting down Metals
+2026.03.19 16:11:35 INFO  Exiting server

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Full-Stack App</h1>
+    <div id="api-result"></div>
+    <script>
+      async function fetchItems() {
+        const resultDiv = document.getElementById("api-result");
+        resultDiv.innerHTML = "<pre>Ładowanie...</pre>";
+        try {
+          const response = await fetch("/api/items");
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          const data = await response.json();
+          resultDiv.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+          console.log("Dane z API:", data);
+        } catch (error) {
+          resultDiv.innerHTML = `<pre style="color: red;">Błąd: ${error.message}</pre>`;
+          console.error("Błąd podczas pobierania danych:", error);
+        }
+      }
+    </script>
+  </body>
+</html>

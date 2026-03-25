@@ -76,6 +76,24 @@ const findIncidentsByHeroId = async ({ heroId, limit, offset }) => {
   return query;
 };
 
+const update_missions_count = async ({ id }) => {
+  return db.transaction(async (trx) => {
+    const [hero] = await trx("heroes")
+      .where("id", id)
+      .increment("missions_count", 1)
+      .returning([
+        "id",
+        "name",
+        "power",
+        "status",
+        "missions_count",
+        "created_at",
+      ]);
+
+    return hero ?? null;
+  });
+};
+
 export default {
   findAll,
   findById,
@@ -83,4 +101,5 @@ export default {
   create,
   updateById,
   findIncidentsByHeroId,
+  update_missions_count,
 };

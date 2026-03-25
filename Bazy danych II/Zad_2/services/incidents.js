@@ -68,6 +68,7 @@ const assignNewHero = async ({ incidentId, heroId }) => {
   if (hero.status !== "available") {
     throw makeError("hero with that id is currently unavaliable", "CONFLICT");
   }
+  await heroRepository.update_missions_count(hero.id);
 
   const isCriticalIncident = ["critical"].includes(
     String(incident.poziom).toLowerCase(),
