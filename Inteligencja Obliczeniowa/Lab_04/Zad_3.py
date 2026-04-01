@@ -16,15 +16,15 @@ np.random.seed(SEED)
 
 class IrisNet(nn.Module):
     # Składowe modelu:
-    # 4 wejścia -> 16 neuronów -> ReLU -> 8 neuronów -> ReLU -> 3 wyjścia
+    # 3 wejścia -> 16 neuronów -> ReLU -> 8 neuronów -> ReLU -> 2 wyjścia
     def __init__(self):
         super().__init__()
         self.net = nn.Sequential(
-            nn.Linear(4, 16),
+            nn.Linear(3, 16),
             nn.ReLU(),
             nn.Linear(16, 8),
             nn.ReLU(),
-            nn.Linear(8, 3)
+            nn.Linear(8, 2)
         )
 
     def forward(self, x):
@@ -56,16 +56,17 @@ def evaluate(model, dataloader, criterion, device):
 def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Device: {device}")
-    
-    df = pd.read_csv("iris_big.csv")
+
+    df = pd.read_csv("diagnosis.csv")
     X_np = df.iloc[:, :-1].values.astype(np.float32)
-    y_np, class_names = pd.factorize(df.iloc[:, -1], sort=True)
+    y_np = df.iloc[:, -1].values.astype(np.int64)
+    class_names = {"chory", "zdrowy"}
 
     scaler = StandardScaler()
     X_np = scaler.fit_transform(X_np).astype(np.float32)
     
     X = torch.tensor(X_np, dtype=torch.float32)
-    y = torch.tensor(y_np.astype(np.int64), dtype=torch.long)
+    y = torch.tensor(y_np, dtype=torch.long)
 
     dataset = TensorDataset(X, y)
     train_size = int(0.8 * len(dataset))
@@ -117,7 +118,6 @@ def main():
     epochs = np.arange(1, EPOCHS + 1)
     fig, axes = plt.subplots(1, 2, figsize=(14, 4))
 
-    # Lewy wykres: Loss
     axes[0].plot(epochs, train_losses, label="train loss")
     axes[0].plot(epochs, val_losses, label="val loss")
     axes[0].set_xlabel("Epoch")
@@ -125,7 +125,6 @@ def main():
     axes[0].set_title("Wykres błędnych predykcji podczas uczenia")
     axes[0].legend()
 
-    # Prawy wykres: Accuracy
     axes[1].plot(epochs, train_accs, label="train acc")
     axes[1].plot(epochs, val_accs, label="val acc")
     axes[1].set_xlabel("Epoch")
@@ -137,7 +136,7 @@ def main():
     plt.show()
 
     val_loss, val_acc, y_true, y_pred = evaluate(model, val_loader, criterion, device)
-    cm = confusion_matrix(y_true, y_pred, labels=[0, 1, 2])
+    cm = confusion_matrix(y_true, y_pred, labels=[0, 1])
     print("\n=== Wyniki końcowe  ===")
     print(f"Loss: {val_loss:.4f}")
     print(f"Accuracy: {val_acc * 100:.2f}%")
@@ -147,10 +146,6 @@ def main():
         index=[f"true_{name}" for name in class_names],
         columns=[f"pred_{name}" for name in class_names]
     ))
-
-    # Wysoka i stabilna val_accuracy + malejący val_loss sugerują dobrą naukę modelu i poprawne przewidywanie wartości
-    # Najczęstsze pomyłki klas można odczytać z największych wartości poza przekątną macierzy błędu.
-
 
 if __name__ == "__main__":
     main()
