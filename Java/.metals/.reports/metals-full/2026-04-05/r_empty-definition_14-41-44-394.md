@@ -1,7 +1,18 @@
+error id: file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-02-bst-gr-1-kubaxd864-main/Zad_1/Main.java:Main#Node#[A]
+file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-02-bst-gr-1-kubaxd864-main/Zad_1/Main.java
+empty definition using pc, found symbol in pc: 
+found definition using semanticdb; symbol Main#Node#[A]
+empty definition using fallback
+non-local guesses:
+
+offset: 60
+uri: file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-02-bst-gr-1-kubaxd864-main/Zad_1/Main.java
+text:
+```scala
 public class Main {
 
     static class Node<A> {
-        A value;
+        A@@ value;
         Node<A> next;
 
         Node(A value) {
@@ -45,15 +56,20 @@ public class Main {
 
     public static void main(String[] args) {
         Queue<Integer> q = new Queue<>();
-
         q.enqueue(10);
-        q.enqueue(20);
-        q.enqueue(30);
-
-        System.out.println(q.dequeue()); // 10
-        System.out.println(q.dequeue()); // 20
-        System.out.println(q.isEmpty()); // false
-        System.out.println(q.dequeue()); // 30
-        System.out.println(q.isEmpty()); // true
+        q.enqueue(45);
+        q.enqueue(5);
+        System.out.println(q.dequeue()); 
+        System.out.println(q.dequeue()); 
+        System.out.println(q.isEmpty()); 
+        System.out.println(q.dequeue()); 
+        System.out.println(q.isEmpty()); 
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: 

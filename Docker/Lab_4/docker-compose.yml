@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+  backend:
+    build: ./backend
+    container_name: product-backend
+    networks:
+      - internal
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: product-frontend
+    ports:
+      - "8080:80"
+    networks:
+      - internal
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+networks:
+  internal:
+    driver: bridge

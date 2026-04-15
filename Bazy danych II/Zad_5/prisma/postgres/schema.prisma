@@ -1,0 +1,78 @@
+generator client {
+  provider = "prisma-client-js"
+  engineType = "library"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model heroes {
+  id             Int         @id @default(autoincrement())
+  name           String      @unique(map: "heroes_name_unique") @db.VarChar(120)
+  power          hero_power
+  status         hero_status @default(available)
+  created_at     DateTime    @default(now()) @db.Timestamptz(6)
+  updated_at     DateTime    @default(now()) @db.Timestamptz(6)
+  missions_count Int         @default(0)
+  incidents      incidents[]
+}
+
+model incidents {
+  id          Int             @id @default(autoincrement())
+  location    String          @db.VarChar(180)
+  level       incident_level
+  status      incident_status @default(open)
+  hero_id     Int?
+  created_at  DateTime        @default(now()) @db.Timestamptz(6)
+  updated_at  DateTime        @default(now()) @db.Timestamptz(6)
+  district    String?         @db.VarChar(100)
+  assigned_at DateTime?       @db.Timestamptz(6)
+  resolved_at DateTime?       @db.Timestamptz(6)
+  heroes      heroes?         @relation(fields: [hero_id], references: [id], onUpdate: NoAction, map: "incidents_hero_id_foreign")
+  categories  IncidentCategory[]
+
+  @@index([hero_id], map: "incidents_hero_id_index")
+}
+
+model category {
+  id          Int         @id @default(autoincrement())
+  name        String      @unique(map: "category_name_unique") @db.VarChar(80)
+  incidents   IncidentCategory[]
+}
+
+model IncidentCategory {
+  incidentId Int
+  categoryId Int
+  incident   incidents @relation(fields: [incidentId], references: [id], onDelete: Cascade)
+  category   category  @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([incidentId, categoryId])
+}
+
+enum hero_power {
+  flight
+  strength
+  telepathy
+  speed
+  invisibility
+}
+
+enum hero_status {
+  available
+  busy
+  retired
+}
+
+enum incident_level {
+  low
+  medium
+  critical
+}
+
+enum incident_status {
+  open
+  assigned
+  resolved
+}
