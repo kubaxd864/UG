@@ -6,7 +6,7 @@ import cv2
 model = YOLO("yolo26n.pt")
 output_dir = Path("zad_1")
 output_dir.mkdir(parents=True, exist_ok=True)
-mode = "video" #video/file
+mode = "video" 
 
 if mode == "file":
     file_name = "office_yolo.png"
@@ -19,8 +19,6 @@ if mode == "file":
     )
 
     metrics = model.val()
-    # parametr confidence wpływa na ilość wykrywanych na zdjęciu przedmiotów ale pojawia się więcej niepoprawnych trafień.
-    # im wyższy parametr confidence tym detekcje są bardziej pewne.
     results = model(file_name, conf=0.5)  
     results[0].show()
 
