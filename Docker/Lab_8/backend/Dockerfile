@@ -26,7 +26,7 @@ LABEL org.opencontainers.image.created=$BUILD_DATE \
 
 COPY --from=deps /app/node_modules ./node_modules
 COPY package.json ./
-COPY index.js .
+COPY index.js db.js ./
 
 USER node
 EXPOSE 5000

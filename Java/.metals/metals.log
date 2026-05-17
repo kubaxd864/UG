@@ -10412,3 +10412,28 @@ WARNING: Unmatched cancel notification for request id 2647
 2026.04.23 15:12:47 INFO  Memory monitor stopped
 2026.04.23 15:12:47 INFO  shutting down Metals
 2026.04.23 15:12:47 INFO  Exiting server
+2026.05.14 20:00:24 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\x\Desktop\Projects\Github\UG\Java' for client Visual Studio Code 1.120.0.
+2026.05.14 20:00:24 INFO  Memory monitor started
+2026.05.14 20:00:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.14 20:00:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+2026.05.14 20:00:28 WARN  no build tool detected in workspace 'C:\Users\x\Desktop\Projects\Github\UG\Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.14 20:00:29 WARN  Build server is not auto-connectable.
+2026.05.14 20:00:29 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java
+2026.05.14 20:00:31 INFO  time: code lens generation in 2.19s
+2026.05.14 20:00:34 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+maj 14, 2026 8:07:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+maj 14, 2026 8:07:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+maj 14, 2026 8:07:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.14 20:22:32 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java
+2026.05.14 20:22:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java. Using fallback presentation compiler.
+2026.05.14 20:22:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java. Using fallback presentation compiler.
+maj 14, 2026 8:22:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.05.14 20:22:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java. Using fallback presentation compiler.
+2026.05.14 20:23:14 INFO  Shutting down server
+2026.05.14 20:23:14 INFO  Memory monitor stopped
+2026.05.14 20:23:14 INFO  shutting down Metals
+2026.05.14 20:23:14 INFO  Exiting server
