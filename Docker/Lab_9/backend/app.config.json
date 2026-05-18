@@ -1,0 +1,7 @@
+{
+  "instanceName": "backend-service",
+  "timeout": 5000,
+  "limits": {
+    "requestsPerMinute": 100
+  }
+}
