@@ -27,14 +27,12 @@ console.log("Worker started...");
 async function processJobs() {
   while (true) {
     try {
-      // BLPOP — czeka na job
       const job = await redis.blpop("jobs", 0);
 
       if (job) {
         const data = JSON.parse(job[1]);
         console.log("Processing job:", data);
 
-        // przykładowe zapisanie do DB
         await pg.query("INSERT INTO jobs(data) VALUES($1)", [
           JSON.stringify(data),
         ]);

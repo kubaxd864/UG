@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lista Zadań</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        max-width: 600px;
+        margin: 2rem auto;
+      }
+      .task {
+        border: 1px solid #ccc;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        border-radius: 4px;
+      }
+      .task-actions {
+        margin-top: 0.5rem;
+      }
+      button {
+        cursor: pointer;
+        padding: 0.3rem 0.6rem;
+      }
+      form {
+        margin-bottom: 2rem;
+        border: 1px solid #ddd;
+        padding: 1rem;
+        border-radius: 4px;
+      }
+      .form-group {
+        margin-bottom: 1rem;
+      }
+      label {
+        display: block;
+        margin-bottom: 0.2rem;
+      }
+      input,
+      select {
+        width: 100%;
+        padding: 0.4rem;
+        box-sizing: border-box;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Moje Zadania</h1>
+
+    <form id="add-task-form">
+      <h3>Dodaj nowe zadanie</h3>
+      <div class="form-group">
+        <label>ID</label>
+        <input type="number" id="task-id" required />
+      </div>
+      <div class="form-group">
+        <label>Wiadomość / Opis</label>
+        <input type="text" id="task-message" required />
+      </div>
+      <div class="form-group">
+        <label>Status</label>
+        <select id="task-status" required>
+          <option value="Do zrobienia">Do zrobienia</option>
+          <option value="W trakcie">W trakcie</option>
+          <option value="Zrobione">Zrobione</option>
+        </select>
+      </div>
+      <button type="submit">Dodaj Zadanie</button>
+    </form>
+
+    <div id="tasks-container"></div>
+
+    <script>
+      const API_URL = "/tasks";
+      const container = document.getElementById("tasks-container");
+      const form = document.getElementById("add-task-form");
+
+      async function loadTasks() {
+        container.innerHTML = "<p>Ładowanie...</p>";
+        try {
+          const response = await fetch(API_URL);
+          const data = await response.json();
+
+          container.innerHTML = "";
+          if (data.items && data.items.length > 0) {
+            data.items.forEach((task) => {
+              const taskDiv = document.createElement("div");
+              taskDiv.className = "task";
+              taskDiv.innerHTML = `
+              <strong>[#${task.id}] ${task.message}</strong>
+              <p>Status: <em>${task.status}</em></p>
+              <div class="task-actions">
+                <button onclick="updateStatus(${task.id})">Zmień Status</button>
+                <button onclick="deleteTask(${task.id})" style="color: red;">Usuń</button>
+              </div>
+            `;
+              container.appendChild(taskDiv);
+            });
+          } else {
+            container.innerHTML = "<p>Brak zadań w systemie.</p>";
+          }
+        } catch (err) {
+          container.innerHTML =
+            '<p style="color:red">Błąd podczas ładowania zadań</p>';
+        }
+      }
+
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+
+        const id = document.getElementById("task-id").value;
+        const message = document.getElementById("task-message").value;
+        const status = document.getElementById("task-status").value;
+
+        try {
+          const response = await fetch(API_URL, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ id: Number(id), message, status }),
+          });
+
+          if (response.ok) {
+            form.reset();
+            loadTasks();
+          } else {
+            const err = await response.json();
+            alert("Błąd dodawania: " + err.error);
+          }
+        } catch (err) {
+          alert("Wystąpił błąd");
+        }
+      });
+
+      async function updateStatus(id) {
+        const newStatus = prompt(
+          "Podaj nowy status (np. Zrobione, W trakcie):",
+        );
+        if (!newStatus) return;
+
+        try {
+          const response = await fetch(`${API_URL}/${id}`, {
+            method: "PATCH",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ status: newStatus }),
+          });
+
+          if (response.ok) {
+            loadTasks();
+          } else {
+            const err = await response.json();
+            alert("Błąd aktualizacji: " + err.error);
+          }
+        } catch (err) {
+          alert("Wystąpił błąd");
+        }
+      }
+
+      async function deleteTask(id) {
+        if (!confirm(`Czy na pewno chcesz usunąć zadanie #${id}?`)) return;
+
+        try {
+          const response = await fetch(`${API_URL}/${id}`, {
+            method: "DELETE",
+          });
+
+          if (response.ok) {
+            loadTasks();
+          } else {
+            const err = await response.json();
+            alert("Błąd usuwania: " + err.error);
+          }
+        } catch (err) {
+          alert("Wystąpił błąd");
+        }
+      }
+      loadTasks();
+    </script>
+  </body>
+</html>
