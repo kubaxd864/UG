@@ -1,5 +1,23 @@
 package main
 
+import (
+	"sync"
+	"time"
+)
+
+type ESS struct {
+	capacity              float64
+	soc                   float64
+	currentDischargePower float64
+}
+
+type LoadShedRecord struct {
+	ConsumerID string
+	Priority   int
+	DemandMW   float64
+	Timestamp  time.Time
+}
+
 type DemandReport struct {
 	ID       string
 	DemandMW float64
@@ -13,11 +31,22 @@ type SupplyStatus struct {
 }
 
 type ForecastReport struct {
-	ExpectedChange float64
-	Horizon        int
+	PredictedRES float64
+	Trend        float64
 }
 
 type WeatherData struct {
-	WindSpeed float64
-	SunLevel  float64
+	Wind float64
+}
+
+type WindFarm struct {
+	output float64
+	sub    chan WeatherData
+	curtailed bool
+}
+
+type CoalPlant struct {
+	mu     sync.RWMutex
+	output float64
+	target float64
 }

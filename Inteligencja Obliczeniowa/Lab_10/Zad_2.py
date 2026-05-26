@@ -1,4 +1,5 @@
 from simpful import *
+import matplotlib.pyplot as plt
 
 FS = FuzzySystem(show_banner=False)
 S_1 = TriangleFuzzySet(0, 0, 5, term="poor")
@@ -20,6 +21,15 @@ r2 = "IF (service IS good) THEN (tip IS average)"
 r3 = "IF (service IS excellent) OR (food IS delicious) THEN (tip IS generous)"
 FS.add_rules([r1, r2, r3])
 
+def plot_variables(fs):
+    fig, ax = plt.subplots(2, 2, figsize=(10, 8))
+    fs.plot_variable("service", ax=ax[0, 0])
+    fs.plot_variable("food", ax=ax[0, 1])
+    fs.plot_variable("tip", ax=ax[1, 0])
+    ax[1, 1].axis("off")
+    fig.tight_layout()
+    plt.show()
+    
 dane_testowe = [(4, 8), (2, 3), (9, 9), (7, 5)]
 print("--- Wyniki testów systemu rozmytego ---")
 for obsluga, jedzenie in dane_testowe:
@@ -30,3 +40,5 @@ for obsluga, jedzenie in dane_testowe:
     napiwek_procent = wynik["tip"]
     
     print(f"Dane wejściowe: obsługa={obsluga}, jedzenie={jedzenie} -> Proponowany napiwek: {napiwek_procent:.2f}%")
+
+plot_variables(FS)

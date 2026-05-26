@@ -18,38 +18,55 @@ func main() {
 
 	go func() {
 		<-sigChan
-		fmt.Println("\n[SYSTEM] Otrzymano sygnał przerwania. Zamykanie...")
+		fmt.Println("\n[SYSTEM] Shutdown")
 		cancel()
 	}()
 
 	forecastChan := make(chan ForecastReport, 1)
 	demandChan := make(chan DemandReport)
 	logChan := make(chan any, 100)
+
 	broadcaster := NewBroadcaster()
+	wind := NewWindFarm(broadcaster)
+	coal := &CoalPlant{}
+	sources := []EnergySource{wind, coal}
+	ess := NewESS(100)
 
 	var wg sync.WaitGroup
-	wg.Add(5)
+		go StartLogger(logChan)
 
+	wg.Add(2)
+	go func() { defer wg.Done(); wind.Start(ctx) }()
+	go func() { defer wg.Done(); coal.Start(ctx) }()
+
+	wg.Add(3)
+	go func() { defer wg.Done(); StartWeatherStation(ctx, broadcaster) }()
+	go func() { defer wg.Done(); StartPredictor(ctx, broadcaster, forecastChan) }()
 	go func() {
 		defer wg.Done()
-		StartWeatherStation(ctx, broadcaster)
+		StartGridHub(ctx, forecastChan, demandChan, logChan, sources, ess, coal, wind)
 	}()
 
-	go func() {
-		defer wg.Done()
-		StartPredictor(ctx, broadcaster, forecastChan)
-	}()
+	consumerDefs := []struct {
+		id  string
+		typ ConsumerType
+	}{
+		{"H1", Residential},
+		{"H2", Residential},
+		{"F1", Industrial},
+		{"F2", Industrial},
+		{"HOSPITAL", Critical},
+	}
 
-	go func() {
-		defer wg.Done()
-		StartGridHub(ctx, forecastChan, demandChan, logChan)
-	}()
-
-	go func() {
-		defer wg.Done()
-		StartConsumer(ctx, "C1", demandChan)
-	}()
+	for _, def := range consumerDefs {
+		wg.Add(1)
+		go func(id string, typ ConsumerType) {
+			defer wg.Done()
+			StartConsumer(ctx, id, typ, demandChan)
+		}(def.id, def.typ)
+	}
 
 	wg.Wait()
-	fmt.Println("[SYSTEM] Wszystkie komponenty zamknięte. Koniec.")
+	close(logChan)
+	fmt.Println("[SYSTEM] Zamknięto")
 }
