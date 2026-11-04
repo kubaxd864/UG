@@ -1177,3 +1177,8 @@ WARNING: Unmatched cancel notification for request id 1513
 2026.11.04 15:28:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\SpringBoot\cmms\cmms\src\main\java\pl\ug\edu\cmms\ReportService.java. Using fallback presentation compiler.
 2026.11.04 15:28:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\SpringBoot\cmms\cmms\src\main\java\pl\ug\edu\cmms\ReportService.java. Using fallback presentation compiler.
 2026.11.04 15:28:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\SpringBoot\cmms\cmms\src\main\java\pl\ug\edu\cmms\ReportService.java. Using fallback presentation compiler.
+2026.11.04 15:28:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\SpringBoot\cmms\cmms\src\main\java\pl\ug\edu\cmms\ReportService.java. Using fallback presentation compiler.
+2026.11.04 15:28:56 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\SpringBoot\cmms\cmms\src\main\java\pl\ug\edu\cmms\ReportService.java
+2026.11.04 15:28:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\SpringBoot\cmms\cmms\src\main\java\pl\ug\edu\cmms\ReportService.java. Using fallback presentation compiler.
+2026.11.04 15:28:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\SpringBoot\cmms\cmms\src\main\java\pl\ug\edu\cmms\ReportService.java. Using fallback presentation compiler.
+2026.11.04 15:28:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\SpringBoot\cmms\cmms\src\main\java\pl\ug\edu\cmms\ReportService.java. Using fallback presentation compiler.
