@@ -10437,3 +10437,1067 @@ WARNING: Unmatched cancel notification for request id 13
 2026.05.14 20:23:14 INFO  Memory monitor stopped
 2026.05.14 20:23:14 INFO  shutting down Metals
 2026.05.14 20:23:14 INFO  Exiting server
+2026.05.31 21:29:28 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\x\Desktop\Projects\Github\UG\Java' for client Visual Studio Code 1.122.0.
+2026.05.31 21:29:28 INFO  Memory monitor started
+2026.05.31 21:29:29 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.31 21:29:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java. Using fallback presentation compiler.
+2026.05.31 21:29:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java. Using fallback presentation compiler.
+2026.05.31 21:29:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java. Using fallback presentation compiler.
+2026.06.01 09:29:19 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\x\Desktop\Projects\Github\UG\Java' for client Visual Studio Code 1.122.0.
+2026.06.01 09:29:19 INFO  Memory monitor started
+2026.06.01 09:29:27 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.01 09:51:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+2026.06.01 10:09:28 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java
+2026.06.01 10:09:28 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java
+2026.06.01 10:09:28 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java
+2026.06.01 10:09:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+2026.06.01 10:09:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+2026.06.01 10:22:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:47 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:22:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+2026.06.01 10:22:47 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:22:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java. Using fallback presentation compiler.
+2026.06.01 10:22:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:22:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:11 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:23:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+cze 01, 2026 10:23:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/x/Desktop/Projects/Github/UG/Java/zadanie-03-koszyk-gr-1-kubaxd864/BestPromotions.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.06.01 10:23:11 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java
+2026.06.01 10:23:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java. Using fallback presentation compiler.
+2026.06.01 10:23:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java. Using fallback presentation compiler.
+2026.06.01 10:23:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java. Using fallback presentation compiler.
+2026.06.01 10:23:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java. Using fallback presentation compiler.
+2026.06.01 10:23:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java. Using fallback presentation compiler.
+2026.06.01 10:23:13 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BestPromotions.java
+2026.06.01 10:23:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BestPromotions.java. Using fallback presentation compiler.
+2026.06.01 10:23:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BestPromotions.java. Using fallback presentation compiler.cze 01, 2026 10:23:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+
+2026.06.01 10:23:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BestPromotions.java. Using fallback presentation compiler.
+2026.06.01 10:23:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BestPromotions.java. Using fallback presentation compiler.
+2026.06.01 10:23:13 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java
+2026.06.01 10:23:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java. Using fallback presentation compiler.
+2026.06.01 10:23:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java. Using fallback presentation compiler.
+2026.06.01 10:23:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java. Using fallback presentation compiler.
+2026.06.01 10:23:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java. Using fallback presentation compiler.
+cze 01, 2026 10:23:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/x/Desktop/Projects/Github/UG/Java/zadanie-03-koszyk-gr-1-kubaxd864/BestPromotions.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+cze 01, 2026 10:23:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/x/Desktop/Projects/Github/UG/Java/zadanie-03-koszyk-gr-1-kubaxd864/CouponPromotion.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+cze 01, 2026 10:23:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/x/Desktop/Projects/Github/UG/Java/zadanie-03-koszyk-gr-1-kubaxd864/CouponPromotion.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.06.01 10:23:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java. Using fallback presentation compiler.
+2026.06.01 10:23:17 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java
+2026.06.01 10:23:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java. Using fallback presentation compiler.
+2026.06.01 10:23:16 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java. Using fallback presentation compiler.
+2026.06.01 10:23:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+2026.06.01 10:23:21 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java
+2026.06.01 10:23:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+2026.06.01 10:23:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:23 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:23:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+cze 01, 2026 10:23:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/x/Desktop/Projects/Github/UG/Java/zadanie-03-koszyk-gr-1-kubaxd864/BestPromotions.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.06.01 10:23:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:35 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:23:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+cze 01, 2026 10:23:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/x/Desktop/Projects/Github/UG/Java/zadanie-03-koszyk-gr-1-kubaxd864/CouponPromotion.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.06.01 10:23:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:37 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:23:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:38 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:23:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Promotion.java. Using fallback presentation compiler.
+2026.06.01 10:23:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Product.java. Using fallback presentation compiler.
+2026.06.01 10:23:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:23:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:14 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java
+2026.06.01 10:24:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:14 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java
+2026.06.01 10:24:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:22 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:23 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:24 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:26 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:30 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:34 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:36 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java
+2026.06.01 10:24:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:24:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:37 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:24:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+cze 01, 2026 10:24:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 361
+2026.06.01 10:24:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:24:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:26:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\Basket.java. Using fallback presentation compiler.
+2026.06.01 10:26:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BestPromotions.java. Using fallback presentation compiler.
+2026.06.01 10:26:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-03-koszyk-gr-1-kubaxd864\BuyTwoGetOneFreePromotion.java. Using fallback presentation compiler.
+2026.06.01 10:32:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:28 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:29 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:32:36 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java
+2026.06.01 10:32:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:32:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:32:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:32:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:32:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:38 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:32:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:58 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:32:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:00 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Bank.java]
+2026.06.01 10:33:00 INFO  empty definition using pc, found symbol in pc: _empty_/Observer# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-33-00-407.md")
+2026.06.01 10:33:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:00 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Bank.java]
+2026.06.01 10:33:00 INFO  empty definition using pc, found symbol in pc: _empty_/InflationListener# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-33-00-523.md")
+2026.06.01 10:33:00 INFO  empty definition using pc, found symbol in pc: _empty_/InflationListener# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-33-00-523.md")
+2026.06.01 10:33:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:33:05 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java
+2026.06.01 10:33:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:33:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:33:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:33:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:05 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:33:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:05 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.01 10:33:05 INFO  no build target found for /java.base/java/util/package-info.java. Using fallback presentation compiler.
+2026.06.01 10:33:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:06 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:33:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:27 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:33:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:33:27 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:33:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+cze 01, 2026 10:33:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 618
+2026.06.01 10:33:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:42 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:33:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:33:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:36:06 INFO  no build target found for /java.base/java/util/package-info.java. Using fallback presentation compiler.
+2026.06.01 10:40:27 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:39 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:40:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:39 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:40:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:41 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:40:46 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:40:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:40:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:40:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:40:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:46 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:40:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:47 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:40:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+cze 01, 2026 10:40:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/x/Desktop/Projects/Github/UG/Java/Hello.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.06.01 10:40:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:48 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:40:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:56 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:40:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:40:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:59 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:40:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:40:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+cze 01, 2026 10:41:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 749
+2026.06.01 10:41:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:03 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:04 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:41:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:06 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:41:06 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:41:07 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:41:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:41:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:41:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:41:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:07 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:41:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:41:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:21 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:25 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java
+2026.06.01 10:41:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:25 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java
+2026.06.01 10:41:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:25 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:31 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:32 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:33 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Market.java]
+2026.06.01 10:41:33 INFO  empty definition using pc, found symbol in pc: java/util/List# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-41-33-083.md")
+2026.06.01 10:41:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:33 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Market.java]
+2026.06.01 10:41:33 INFO  empty definition using pc, found symbol in pc: _empty_/Offer# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-41-33-150.md")
+2026.06.01 10:41:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:33 INFO  empty definition using pc, found symbol in pc: _empty_/Offer# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-41-33-150.md")
+2026.06.01 10:41:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:33 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java
+2026.06.01 10:41:33 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:34 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:34 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:34 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:35 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:36 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:38 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:42 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:43 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:44 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:45 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:41:47 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java
+2026.06.01 10:41:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:41:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:41:47 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Observer.java. Using fallback presentation compiler.
+2026.06.01 10:41:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:48 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:41:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:41:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:55 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java
+2026.06.01 10:41:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:41:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:57 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:41:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:41:59 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:01 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java
+2026.06.01 10:42:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:00 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:42:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:02 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:42:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:02 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:04 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:42:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:42:04 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java
+cze 01, 2026 10:42:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1000
+2026.06.01 10:42:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:42:04 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java
+2026.06.01 10:42:04 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:42:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:05 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java
+2026.06.01 10:42:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:42:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:06 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:42:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:05 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:07 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java
+2026.06.01 10:42:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:07 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Seller.java. Using fallback presentation compiler.
+2026.06.01 10:42:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:42:12 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java
+2026.06.01 10:42:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:42:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:43:39 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Buyer.java. Using fallback presentation compiler.
+2026.06.01 10:44:46 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:45:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Bank.java. Using fallback presentation compiler.
+2026.06.01 10:45:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:01 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java
+2026.06.01 10:45:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:45:01 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java
+2026.06.01 10:45:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Market.java. Using fallback presentation compiler.
+2026.06.01 10:45:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+cze 01, 2026 10:45:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1045
+2026.06.01 10:45:01 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:08 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:09 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:10 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:11 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:12 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:13 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Statistics.java]
+2026.06.01 10:45:14 INFO  empty definition using pc, found symbol in pc: java/util/Collection#stream(). (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-45-14-663.md")
+2026.06.01 10:45:13 INFO  no build target found for /java.base/java/util/Collection.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Statistics.java]
+2026.06.01 10:45:14 INFO  empty definition using pc, found symbol in pc: _empty_/Offer# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-45-14-956.md")
+2026.06.01 10:45:14 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Statistics.java]
+2026.06.01 10:45:14 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-45-14-992.md")
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:14 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:15 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:17 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:19 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:37 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:40 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java
+2026.06.01 10:45:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Statistics.java. Using fallback presentation compiler.
+2026.06.01 10:45:40 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java
+2026.06.01 10:45:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:40 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:48 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Engine.java]
+2026.06.01 10:45:49 INFO  empty definition using pc, found symbol in pc: _empty_/Market# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-45-49-698.md")
+2026.06.01 10:45:49 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Engine.java]
+2026.06.01 10:45:49 INFO  empty definition using pc, found symbol in pc: _empty_/CentralBank# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-45-49-710.md")
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  Created report: Optional[file:///C:/Users/x/Desktop/Projects/Github/UG/Java/zadanie-04-rynek-kubaxd864/Engine.java]
+2026.06.01 10:45:49 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-45-49-743.md")
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:49 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  empty definition using pc, found symbol in pc: _empty_/CentralBank# (full report at: "C:\Users\x\Desktop\Projects\Github\UG\Java\.metals\.reports\metals-full\2026-06-01\r_empty-definition_10-45-49-710.md")
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:50 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:51 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:52 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:53 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:54 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:55 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:56 WARN  no build target for: C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java
+2026.06.01 10:45:56 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:45:57 INFO  no build target found for C:\Users\x\Desktop\Projects\Github\UG\Java\zadanie-04-rynek-kubaxd864\Engine.java. Using fallback presentation compiler.
+2026.06.01 10:46:11 INFO  Shutting down server
+2026.06.01 10:46:11 INFO  Memory monitor stopped
+2026.06.01 10:46:11 INFO  shutting down Metals
+2026.06.01 10:46:11 INFO  Exiting server
