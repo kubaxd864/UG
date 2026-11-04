@@ -1,0 +1,34 @@
+<report>
+  <machineCount>9</machineCount>
+  <orderCount>45</orderCount>
+  <unfinishedByPriority>
+    <priority name="LOW">
+      <count>1</count>
+    </priority>
+    <priority name="NORMAL">
+      <count>1</count>
+    </priority>
+    <priority name="HIGH">
+      <count>3</count>
+    </priority>
+    <priority name="CRITICAL">
+      <count>0</count>
+    </priority>
+  </unfinishedByPriority>
+  <topBreakdowns>
+    <machine id="M-04" breakdowns="5"/>
+    <machine id="M-08" breakdowns="4"/>
+    <machine id="M-05" breakdowns="3"/>
+  </topBreakdowns>
+  <mttrByHall>
+    <hall name="A">
+      <minutes>831</minutes>
+    </hall>
+    <hall name="B">
+      <minutes>786</minutes>
+    </hall>
+    <hall name="C">
+      <minutes>1005</minutes>
+    </hall>
+  </mttrByHall>
+</report>

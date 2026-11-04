@@ -1,0 +1,20 @@
+spring:
+  main:
+    banner-mode: off
+logging:
+  level:
+    root: WARN
+
+report:
+  top-n: 3
+  file: src/main/resources/report.xml
+
+cmms:
+  sla:
+    critical: 4h
+    high: 16h
+    normal: 36h
+    low: 264h
+
+demo:
+  now: 2026-09-21T06:00:00Z
